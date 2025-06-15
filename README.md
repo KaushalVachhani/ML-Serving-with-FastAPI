@@ -1,0 +1,1 @@
+# ML Model Serving with FastAPI: An end-to-end project for training a model and deploying it as a RESTful service.
