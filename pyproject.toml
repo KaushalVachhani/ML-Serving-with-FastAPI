@@ -1,0 +1,15 @@
+[project]
+name = "ml-serving-with-fastapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.12",
+    "ipykernel>=6.29.5",
+    "numpy>=2.3.0",
+    "pandas>=2.3.0",
+    "pydantic>=2.11.7",
+    "scikit-learn>=1.7.0",
+    "uvicorn>=0.34.3",
+]
